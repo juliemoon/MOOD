@@ -1,2 +1,2 @@
 # MOOD
-grab a song and a giphy
+get gifs related to your mood
